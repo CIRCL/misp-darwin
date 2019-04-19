@@ -1,0 +1,13 @@
+
+
+Base de données d'exploit 
+https://www.exploit-db.com/
+
+Site internet MISP 
+https://www.misp-project.org/
+
+GitHub
+https://github.com/CIRCL/misp-darwin.git
+
+Methodologie
+http://www.threat-intelligence.eu/methodologies/
